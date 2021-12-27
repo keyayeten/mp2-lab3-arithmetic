@@ -1,6 +1,10 @@
 // реализация пользовательского приложения
+#include "arithmetic.h"
 
 int main()
 {
-  return 0;
+	Arithmetic A;
+	A.launch();
+
+	return 0;
 }
